@@ -1,0 +1,21 @@
+# after writing all the tools name, in the terminal -> pip install -r requirements.txt
+
+# Utilities
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin 
+git+https://github.com/ageitgey/face_recognition_models
+setuptools
+
+
+supabase
+bcrypt
+
+segno
+pillow
+
+streamlit 
+
